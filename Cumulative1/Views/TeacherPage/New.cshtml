@@ -1,0 +1,135 @@
+﻿@model Cumulative1.Models.Teacher
+
+<style>
+    /* Form Container */
+    .form-container {
+        background-color: #ffffff;
+        border-radius: 12px;
+        box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+        padding: 40px 50px;
+        max-width: 600px;
+        width: 100%;
+        margin: 20px auto;
+        font-family: 'Arial', sans-serif;
+    }
+
+        .form-container h2 {
+            text-align: center;
+            color: #333333;
+            margin-bottom: 25px;
+            font-size: 28px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+    /* Form Group */
+    .form-group {
+        margin-bottom: 20px;
+    }
+
+        .form-group label {
+            display: block;
+            font-weight: bold;
+            margin-bottom: 8px;
+            color: #555555;
+            font-size: 16px;
+        }
+
+    /* Form Controls */
+    .form-control {
+        width: 100%;
+        padding: 14px;
+        border: 1px solid #dddddd;
+        border-radius: 8px;
+        font-size: 16px;
+        background-color: #f9f9f9;
+        transition: border-color 0.3s ease;
+    }
+
+        .form-control:focus {
+            border-color: #007bff;
+            outline: none;
+            background-color: #ffffff;
+        }
+
+    /* Buttons */
+    .btn {
+        display: inline-block;
+        padding: 14px 30px;
+        font-size: 18px;
+        color: #ffffff;
+        background-color: #28a745; /* Green color */
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+        text-align: center;
+        width: 100%;
+        margin-top: 20px;
+        transition: background-color 0.3s ease, transform 0.2s ease;
+    }
+
+        .btn:hover {
+            background-color: #218838; /* Darker green */
+            transform: scale(1.05); /* Button slightly enlarges on hover */
+        }
+
+    /* Secondary Button */
+    .btn-secondary {
+        background-color: #6c757d;
+        margin-top: 20px;
+    }
+
+        .btn-secondary:hover {
+            background-color: #5a6268;
+            transform: scale(1.05); /* Secondary button enlarges too */
+        }
+
+    /* Flexbox for Actions */
+    .actions {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 25px;
+        gap: 15px;
+    }
+
+   
+
+    .btn {
+        padding: 12px 25px;
+    }
+
+    
+</style>
+
+<div class="form-container">
+    <h2>Add New Teacher</h2>
+
+    <form method="post" action="/TeacherPage/Create">
+        <div class="form-group">
+            <label for="TeacherFname">First Name</label>
+            <input type="text" id="TeacherFname" name="TeacherFname" class="form-control" required />
+        </div>
+        <div class="form-group">
+            <label for="TeacherLname">Last Name</label>
+            <input type="text" id="TeacherLname" name="TeacherLname" class="form-control" required />
+        </div>
+        <div class="form-group">
+            <label for="EmployeeNumber">Employee Number</label>
+            <input type="text" id="EmployeeNumber" name="EmployeeNumber" class="form-control" required />
+        </div>
+        <div class="form-group">
+            <label for="Hire">Hire Date</label>
+            <input type="date" id="Hire" name="Hire" class="form-control" required />
+        </div>
+        <div class="form-group">
+            <label for="Salary">Salary</label>
+            <input type="text" id="Salary" name="Salary" class="form-control" required />
+        </div>
+
+        <div class="actions">
+            <button type="submit" class="btn">Create Teacher</button>
+            <a href="/TeacherPage/List" class="btn btn-secondary">Cancel</a>
+        </div>
+    </form>
+</div>

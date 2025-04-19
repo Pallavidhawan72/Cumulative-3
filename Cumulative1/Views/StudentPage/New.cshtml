@@ -1,0 +1,110 @@
+﻿@model Cumulative1.Models.Student
+
+<!-- Inline CSS for form styling -->
+<style>
+    body {
+        font-family: 'Arial', sans-serif;
+        background-color: #f4f7fc;
+        margin: 0;
+        padding: 20px;
+    }
+
+    /* Centering the form */
+    .form-container {
+        background-color: #fff;
+        padding: 30px;
+        border-radius: 12px;
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+        width: 100%;
+        max-width: 450px;
+        margin: 0 auto;
+    }
+
+    h2 {
+        text-align: center;
+        color: #333;
+        font-size: 24px;
+        margin-bottom: 20px;
+        font-weight: 600;
+        letter-spacing: 1px;
+    }
+
+    div {
+        margin-bottom: 20px;
+    }
+
+    label {
+        display: block;
+        font-size: 14px;
+        color: #555;
+        margin-bottom: 8px;
+    }
+
+    input[type="text"], input[type="date"] {
+        width: 100%;
+        padding: 12px;
+        font-size: 14px;
+        border: 1px solid #ddd;
+        border-radius: 6px;
+        box-sizing: border-box;
+        background-color: #fafafa;
+        transition: border-color 0.3s;
+    }
+
+        input[type="text"]:focus, input[type="date"]:focus {
+            border-color: #007bff;
+            outline: none;
+        }
+
+    /* Submit Button Styles */
+    input[type="submit"] {
+        background-color: #28a745; /* Green background */
+        color: white;
+        font-size: 16px;
+        padding: 14px 20px;
+        border: none;
+        border-radius: 6px;
+        width: 100%;
+        cursor: pointer;
+        transition: background-color 0.3s ease, transform 0.2s ease;
+    }
+
+        input[type="submit"]:hover {
+            background-color: #218838; /* Darker green */
+            transform: translateY(-3px); /* Slight lift effect */
+        }
+
+  
+    input[type="submit"] {
+        padding: 12px 20px;
+    }
+
+    }
+</style>
+
+<!-- Form Content -->
+<div class="form-container">
+    <h2>Create Student</h2>
+
+    <form method="post" action="/StudentPage/Create">
+        <div>
+            <label for="SFName">First Name:</label>
+            <input type="text" id="SFName" name="SFName" required />
+        </div>
+        <div>
+            <label for="SLName">Last Name:</label>
+            <input type="text" id="SLName" name="SLName" required />
+        </div>
+        <div>
+            <label for="SNumber">Student Number:</label>
+            <input type="text" id="SNumber" name="SNumber" required />
+        </div>
+        <div>
+            <label for="EnrollDate">Enroll Date:</label>
+            <input type="date" id="EnrollDate" name="EnrollDate" required />
+        </div>
+        <div>
+            <input type="submit" value="Create Student" />
+        </div>
+    </form>
+</div>

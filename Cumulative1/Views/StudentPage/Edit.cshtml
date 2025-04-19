@@ -1,0 +1,103 @@
+﻿@model Cumulative1.Models.Student
+
+<style>
+    body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background-color: #f4f7fc;
+        margin: 0;
+        padding: 30px 15px;
+    }
+
+    .form-container {
+        max-width: 600px;
+        margin: 0 auto;
+        background-color: #ffffff;
+        padding: 40px;
+        border-radius: 16px;
+        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+    }
+
+    h2 {
+        text-align: center;
+        font-size: 28px;
+        font-weight: 700;
+        color: #2c3e50;
+        margin-bottom: 30px;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+    }
+
+    .form-group {
+        margin-bottom: 20px;
+    }
+
+        .form-group label {
+            display: block;
+            font-size: 15px;
+            font-weight: 600;
+            color: #555;
+            margin-bottom: 6px;
+        }
+
+        .form-group input[type="text"],
+        .form-group input[type="date"] {
+            width: 100%;
+            padding: 12px;
+            font-size: 15px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            background-color: #f9f9f9;
+            transition: border-color 0.3s ease;
+        }
+
+        .form-group input:focus {
+            border-color: #007bff;
+            background-color: #fff;
+            outline: none;
+        }
+
+    .submit-btn {
+        background-color: #28a745;
+        color: #fff;
+        font-size: 17px;
+        padding: 14px;
+        border: none;
+        border-radius: 10px;
+        width: 100%;
+        font-weight: 600;
+        cursor: pointer;
+        transition: background-color 0.3s ease, transform 0.2s ease;
+        box-shadow: 0 4px 12px rgba(40, 167, 69, 0.3);
+    }
+
+        .submit-btn:hover {
+            background-color: #218838;
+            transform: scale(1.03);
+        }
+</style>
+
+<div class="form-container">
+    <h2>Update Student</h2>
+
+    <form method="post" action="/StudentPage/Update/@Model.Id">
+        <div class="form-group">
+            <label for="SFName">First Name:</label>
+            <input type="text" id="SFName" name="SFName" value="@Model.SFName" required />
+        </div>
+        <div class="form-group">
+            <label for="SLName">Last Name:</label>
+            <input type="text" id="SLName" name="SLName" value="@Model.SLName" required />
+        </div>
+        <div class="form-group">
+            <label for="SNumber">Student Number:</label>
+            <input type="text" id="SNumber" name="SNumber" value="@Model.SNumber" required />
+        </div>
+        <div class="form-group">
+            <label for="EnrollDate">Enroll Date:</label>
+            <input type="date" id="EnrollDate" name="EnrollDate" value="@Model.EnrollDate.ToString("yyyy-MM-dd")" required />
+        </div>
+        <div class="form-group">
+            <input type="submit" class="submit-btn" value="Update Student" />
+        </div>
+    </form>
+</div>

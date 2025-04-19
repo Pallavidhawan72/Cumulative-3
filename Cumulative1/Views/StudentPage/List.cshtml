@@ -1,0 +1,108 @@
+﻿@model IEnumerable<Cumulative1.Models.Student>
+
+<style>
+    body {
+        font-family: 'Arial', sans-serif;
+        background-color: #f4f7fa;
+        margin: 0;
+        padding: 20px;
+    }
+
+    .container {
+        max-width: 1000px;
+        margin: 0 auto;
+        background-color: #ffffff;
+        padding: 40px;
+        border-radius: 12px;
+        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+    }
+
+    h1 {
+        text-align: center;
+        font-size: 30px;
+        color: #2c3e50;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        margin-bottom: 35px;
+    }
+
+    .student-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: 20px;
+        margin-bottom: 40px;
+    }
+
+    .student-item {
+        background-color: #eaf2fb;
+        padding: 20px;
+        border-radius: 12px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        text-align: center;
+    }
+
+        .student-item a {
+            text-decoration: none;
+            font-size: 18px;
+            font-weight: bold;
+            color: #007BFF;
+            display: block;
+        }
+
+        .student-item:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+        }
+
+        .student-item a:hover {
+            color: #1abc9c;
+        }
+
+    .add-button-container {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .add-btn {
+        display: inline-block;
+        padding: 14px 28px;
+        font-size: 16px;
+        font-weight: bold;
+        color: #fff;
+        background-color: #28a745;
+        border-radius: 10px;
+        text-decoration: none;
+        transition: background-color 0.3s ease, transform 0.3s ease;
+        box-shadow: 0 4px 10px rgba(40, 167, 69, 0.3);
+    }
+
+        .add-btn:hover {
+            background-color: #218838;
+            transform: scale(1.05);
+        }
+
+        .add-btn::before {
+            content: "+ ";
+            font-size: 18px;
+        }
+</style>
+
+<div class="container">
+    <h1>Student List</h1>
+
+    <div class="student-grid">
+        @foreach (Cumulative1.Models.Student Student in Model)
+        {
+            <div class="student-item">
+                <a href="/StudentPage/Show/@Student.Id">
+                    @Student.SFName @Student.SLName
+                </a>
+            </div>
+        }
+    </div>
+
+    <div class="add-button-container">
+        <a href="/StudentPage/New" class="add-btn">Add Student</a>
+    </div>
+</div>

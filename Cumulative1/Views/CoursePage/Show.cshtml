@@ -1,0 +1,164 @@
+﻿@model Cumulative1.Models.Course
+
+<style>
+    body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background: linear-gradient(to right, #f8f9fa, #e9ecef);
+        margin: 0;
+        padding: 40px 20px;
+    }
+
+    .container {
+        max-width: 900px;
+        margin: auto;
+        background-color: #ffffff;
+        padding: 40px 30px;
+        border-radius: 16px;
+        box-shadow: 0 12px 30px rgba(0, 0, 0, 0.12);
+    }
+
+    h1 {
+        color: #2c3e50;
+        font-size: 32px;
+        text-align: center;
+        margin-bottom: 35px;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+    }
+
+    .course-details {
+        background-color: #f1f3f5;
+        border-radius: 12px;
+        padding: 25px 30px;
+        margin-bottom: 35px;
+        border-left: 6px solid #2980b9;
+        box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.05);
+    }
+
+        .course-details div {
+            display: flex;
+            justify-content: space-between;
+            padding: 10px 0;
+            border-bottom: 1px solid #dee2e6;
+            font-size: 17px;
+            color: #495057;
+        }
+
+            .course-details div:last-child {
+                border-bottom: none;
+            }
+
+        .course-details span.label {
+            font-weight: 600;
+            color: #1d3557;
+            text-transform: uppercase;
+            width: 40%;
+        }
+
+    .btn-group {
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+    }
+
+    .btn-link {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        padding: 14px 28px;
+        border-radius: 10px;
+        font-weight: bold;
+        font-size: 16px;
+        text-decoration: none;
+        transition: all 0.3s ease;
+        border: none;
+        cursor: pointer;
+    }
+
+    /* Delete button */
+    .delete-btn {
+        background-color: #dc3545;
+        color: #fff;
+        box-shadow: 0 4px 10px rgba(220, 53, 69, 0.3);
+    }
+
+        .delete-btn:hover {
+            background-color: #bd2130;
+            transform: scale(1.05);
+        }
+
+        .delete-btn::before {
+            content: "🗑️ ";
+            margin-right: 8px;
+        }
+
+    /* Update button */
+    .update-btn {
+        background-color: #28a745;
+        color: #fff;
+        box-shadow: 0 4px 10px rgba(40, 167, 69, 0.3);
+    }
+
+        .update-btn:hover {
+            background-color: #218838;
+            transform: scale(1.05);
+        }
+
+        .update-btn::before {
+            content: "✏️ ";
+            margin-right: 8px;
+        }
+
+    .footer {
+        text-align: center;
+        margin-top: 40px;
+        font-size: 14px;
+        color: #6c757d;
+    }
+
+        .footer a {
+            color: #007bff;
+            text-decoration: none;
+        }
+
+            .footer a:hover {
+                text-decoration: underline;
+            }
+</style>
+
+<div class="container">
+    <h1>Course Details</h1>
+
+    <div class="course-details">
+        <div>
+            <span class="label">Course Name:</span>
+            <span>@Model.Cname</span>
+        </div>
+        <div>
+            <span class="label">Course Code:</span>
+            <span>@Model.Ccode</span>
+        </div>
+        <div>
+            <span class="label">Teacher ID:</span>
+            <span>@Model.Tid</span>
+        </div>
+        <div>
+            <span class="label">Start Date:</span>
+            <span>@Model.startdate.ToString("yyyy-MM-dd")</span>
+        </div>
+        <div>
+            <span class="label">Finish Date:</span>
+            <span>@Model.finishdate.ToString("yyyy-MM-dd")</span>
+        </div>
+    </div>
+
+    <div class="btn-group">
+        <a href="/CoursePage/DeleteConfirm/@Model.CId" class="btn-link delete-btn">Delete</a>
+        <a href="/CoursePage/Edit/@Model.CId" class="btn-link update-btn">Update</a>
+    </div>
+
+    <div class="footer">
+        <p>&copy; 2024 Course Management System</p>
+        <p><a href="/Home/Contact">Contact Us</a></p>
+    </div>
+</div>

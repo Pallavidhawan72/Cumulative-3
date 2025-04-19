@@ -1,0 +1,149 @@
+﻿@model Cumulative1.Models.Student
+
+<style>
+    body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background-color: #f4f7fa;
+        margin: 0;
+        padding: 20px;
+    }
+
+    .container {
+        max-width: 800px;
+        margin: 0 auto;
+        background-color: #ffffff;
+        padding: 40px;
+        border-radius: 12px;
+        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+    }
+
+    h1 {
+        text-align: center;
+        font-size: 30px;
+        font-weight: 700;
+        color: #2c3e50;
+        margin-bottom: 35px;
+        text-transform: uppercase;
+        letter-spacing: 1.5px;
+    }
+
+    .student-detail-list {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    .student-detail-item {
+        background-color: #eaf2fb;
+        padding: 25px;
+        border-radius: 10px;
+        border-left: 6px solid #007bff;
+        box-shadow: 0 6px 16px rgba(0, 0, 0, 0.06);
+        transition: all 0.3s ease-in-out;
+    }
+
+        .student-detail-item:hover {
+            transform: scale(1.02);
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+            border-left-color: #0056b3;
+        }
+
+        .student-detail-item h3 {
+            font-size: 22px;
+            color: #007bff;
+            margin-bottom: 15px;
+        }
+
+        .student-detail-item p {
+            font-size: 17px;
+            margin: 8px 0;
+            color: #34495e;
+        }
+
+            .student-detail-item p span {
+                font-weight: bold;
+                color: #555;
+            }
+
+    .action-buttons {
+        text-align: center;
+        margin-top: 30px;
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+        flex-wrap: wrap;
+    }
+
+    .delete-btn, .update-btn {
+        display: inline-block;
+        padding: 12px 25px;
+        font-size: 16px;
+        font-weight: 600;
+        color: #fff;
+        border-radius: 8px;
+        text-decoration: none;
+        transition: background-color 0.3s ease, transform 0.3s ease;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    }
+
+    .delete-btn {
+        background-color: #dc3545;
+        box-shadow: 0 4px 12px rgba(220, 53, 69, 0.3);
+    }
+
+        .delete-btn:hover {
+            background-color: #c82333;
+            transform: scale(1.05);
+        }
+
+        .delete-btn::before {
+            content: "🗑️ ";
+            font-size: 16px;
+        }
+
+    .update-btn {
+        background-color: #28a745;
+        box-shadow: 0 4px 12px rgba(40, 167, 69, 0.3);
+    }
+
+        .update-btn:hover {
+            background-color: #218838;
+            transform: scale(1.05);
+        }
+
+        .update-btn::before {
+            content: "✏️ ";
+            font-size: 16px;
+            margin-right: 6px;
+        }
+
+    .footer {
+        text-align: center;
+        margin-top: 40px;
+        font-size: 14px;
+        color: #888;
+    }
+</style>
+
+<div class="container">
+    <h1>Student Details</h1>
+
+    <ul class="student-detail-list">
+        <li class="student-detail-item">
+            <h3>Student ID: <span>@Model.Id</span></h3>
+            <p><span>First Name:</span> @Model.SFName</p>
+            <p><span>Last Name:</span> @Model.SLName</p>
+            <p><span>Student Number:</span> @Model.SNumber</p>
+            <p><span>Enrollment Date:</span> @Model.EnrollDate.ToString("yyyy-MM-dd")</p>
+        </li>
+    </ul>
+
+    <div class="action-buttons">
+        <a href="/StudentPage/DeleteConfirm/@Model.Id" class="delete-btn">Delete</a>
+        <a href="/StudentPage/Edit/@Model.Id" class="update-btn">Update</a>
+    </div>
+
+    <div class="footer">
+        <p>&copy; 2024 Student Management System</p>
+    </div>
+</div>

@@ -1,0 +1,111 @@
+﻿@model Cumulative1.Models.Course
+
+<style>
+    body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background-color: #f4f7fc;
+        margin: 0;
+        padding: 30px 15px;
+    }
+
+    .form-container {
+        max-width: 600px;
+        margin: 0 auto;
+        background-color: #ffffff;
+        padding: 40px;
+        border-radius: 16px;
+        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+    }
+
+    h2 {
+        text-align: center;
+        font-size: 28px;
+        font-weight: 700;
+        color: #2c3e50;
+        margin-bottom: 30px;
+        letter-spacing: 1px;
+    }
+
+    .form-group {
+        margin-bottom: 20px;
+    }
+
+        .form-group label {
+            display: block;
+            font-size: 15px;
+            font-weight: 600;
+            color: #555;
+            margin-bottom: 6px;
+        }
+
+        .form-group input[type="text"],
+        .form-group input[type="date"] {
+            width: 100%;
+            padding: 12px;
+            font-size: 15px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            background-color: #f9f9f9;
+            transition: border-color 0.3s ease;
+        }
+
+        .form-group input:focus {
+            border-color: #007bff;
+            background-color: #fff;
+            outline: none;
+        }
+
+    .submit-btn {
+        background-color: #28a745;
+        color: #fff;
+        font-size: 17px;
+        padding: 14px;
+        border: none;
+        border-radius: 10px;
+        width: 100%;
+        font-weight: 600;
+        cursor: pointer;
+        transition: background-color 0.3s ease, transform 0.2s ease;
+        box-shadow: 0 4px 12px rgba(40, 167, 69, 0.3);
+    }
+
+        .submit-btn:hover {
+            background-color: #218838;
+            transform: scale(1.03);
+        }
+</style>
+
+<div class="form-container">
+    <h2>Edit Course</h2>
+
+    <form method="post" action="/CoursePage/Update/@Model.CId">
+        <div class="form-group">
+            <label for="Ccode">Course Code:</label>
+            <input type="text" id="Ccode" name="Ccode" value="@Model.Ccode" required />
+        </div>
+
+        <div class="form-group">
+            <label for="Tid">Teacher ID:</label>
+            <input type="text" id="Tid" name="Tid" value="@Model.Tid" required />
+        </div>
+
+        <div class="form-group">
+            <label for="Cname">Course Name:</label>
+            <input type="text" id="Cname" name="Cname" value="@Model.Cname" required />
+        </div>
+
+        <div class="form-group">
+            <label for="startdate">Start Date:</label>
+            <input type="date" id="startdate" name="startdate" value="@Model.startdate.ToString("yyyy-MM-dd")" required />
+        </div>
+
+        <div class="form-group">
+            <label for="finishdate">Finish Date:</label>
+            <input type="date" id="finishdate" name="finishdate" value="@Model.finishdate.ToString("yyyy-MM-dd")" required />
+        </div>
+
+        <div class="form-group">
+            <input type="submit" class="submit-btn" value="Update Course" />
+        </div>
+    </form>
+</div>

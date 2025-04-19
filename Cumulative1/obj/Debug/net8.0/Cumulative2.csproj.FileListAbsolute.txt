@@ -1,0 +1,177 @@
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\bin\Debug\net8.0\appsettings.Development.json
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\bin\Debug\net8.0\appsettings.json
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\bin\Debug\net8.0\Cumulative2.staticwebassets.runtime.json
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\bin\Debug\net8.0\Cumulative2.staticwebassets.endpoints.json
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\bin\Debug\net8.0\Cumulative2.exe
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\bin\Debug\net8.0\Cumulative2.deps.json
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\bin\Debug\net8.0\Cumulative2.runtimeconfig.json
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\bin\Debug\net8.0\Cumulative2.dll
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\bin\Debug\net8.0\Cumulative2.pdb
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\bin\Debug\net8.0\Google.Protobuf.dll
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\bin\Debug\net8.0\MySql.Data.dll
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\bin\Debug\net8.0\ZstdSharp.dll
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\obj\Debug\net8.0\Cumulative2.csproj.AssemblyReference.cache
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\obj\Debug\net8.0\Cumulative2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\obj\Debug\net8.0\Cumulative2.AssemblyInfoInputs.cache
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\obj\Debug\net8.0\Cumulative2.AssemblyInfo.cs
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\obj\Debug\net8.0\Cumulative2.csproj.CoreCompileInputs.cache
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\obj\Debug\net8.0\Cumulative2.MvcApplicationPartsAssemblyInfo.cs
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\obj\Debug\net8.0\Cumulative2.MvcApplicationPartsAssemblyInfo.cache
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\obj\Debug\net8.0\Cumulative2.RazorAssemblyInfo.cache
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\obj\Debug\net8.0\Cumulative2.RazorAssemblyInfo.cs
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\obj\Debug\net8.0\Cumulative2.sourcelink.json
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\obj\Debug\net8.0\scopedcss\bundle\Cumulative2.styles.css
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\obj\Debug\net8.0\scopedcss\projectbundle\Cumulative2.bundle.scp.css
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\obj\Debug\net8.0\staticwebassets.build.json
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\obj\Debug\net8.0\staticwebassets.development.json
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\obj\Debug\net8.0\staticwebassets\msbuild.Cumulative2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\obj\Debug\net8.0\staticwebassets\msbuild.Cumulative2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\obj\Debug\net8.0\staticwebassets\msbuild.build.Cumulative2.props
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Cumulative2.props
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Cumulative2.props
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\obj\Debug\net8.0\staticwebassets.pack.json
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\obj\Debug\net8.0\Cumulati.474013E5.Up2Date
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\obj\Debug\net8.0\Cumulative2.dll
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\obj\Debug\net8.0\refint\Cumulative2.dll
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\obj\Debug\net8.0\Cumulative2.pdb
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\obj\Debug\net8.0\Cumulative2.genruntimeconfig.cache
+D:\CSHARP\Cumulative2\Cumulative2\Cumulative1\obj\Debug\net8.0\ref\Cumulative2.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\bin\Debug\net8.0\appsettings.json
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\bin\Debug\net8.0\Cumulative2.staticwebassets.runtime.json
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\bin\Debug\net8.0\Cumulative2.staticwebassets.endpoints.json
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\bin\Debug\net8.0\Cumulative2.exe
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\bin\Debug\net8.0\Cumulative2.deps.json
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\bin\Debug\net8.0\Cumulative2.runtimeconfig.json
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\bin\Debug\net8.0\Cumulative2.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\bin\Debug\net8.0\Cumulative2.pdb
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\obj\Debug\net8.0\Cumulative2.csproj.AssemblyReference.cache
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\obj\Debug\net8.0\Cumulative2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\obj\Debug\net8.0\Cumulative2.AssemblyInfoInputs.cache
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\obj\Debug\net8.0\Cumulative2.AssemblyInfo.cs
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\obj\Debug\net8.0\Cumulative2.csproj.CoreCompileInputs.cache
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\obj\Debug\net8.0\Cumulative2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\obj\Debug\net8.0\Cumulative2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\obj\Debug\net8.0\Cumulative2.RazorAssemblyInfo.cache
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\obj\Debug\net8.0\Cumulative2.RazorAssemblyInfo.cs
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\obj\Debug\net8.0\Cumulative2.sourcelink.json
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\obj\Debug\net8.0\scopedcss\bundle\Cumulative2.styles.css
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\obj\Debug\net8.0\scopedcss\projectbundle\Cumulative2.bundle.scp.css
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\obj\Debug\net8.0\staticwebassets\msbuild.Cumulative2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\obj\Debug\net8.0\staticwebassets\msbuild.Cumulative2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\obj\Debug\net8.0\staticwebassets\msbuild.build.Cumulative2.props
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Cumulative2.props
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Cumulative2.props
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\obj\Debug\net8.0\Cumulati.474013E5.Up2Date
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\obj\Debug\net8.0\Cumulative2.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\obj\Debug\net8.0\refint\Cumulative2.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\obj\Debug\net8.0\Cumulative2.pdb
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\obj\Debug\net8.0\Cumulative2.genruntimeconfig.cache
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative2\Cumulative1\obj\Debug\net8.0\ref\Cumulative2.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\bin\Debug\net8.0\appsettings.json
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\bin\Debug\net8.0\Cumulative2.staticwebassets.runtime.json
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\bin\Debug\net8.0\Cumulative2.staticwebassets.endpoints.json
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\bin\Debug\net8.0\Cumulative2.exe
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\bin\Debug\net8.0\Cumulative2.deps.json
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\bin\Debug\net8.0\Cumulative2.runtimeconfig.json
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\bin\Debug\net8.0\Cumulative2.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\bin\Debug\net8.0\Cumulative2.pdb
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\obj\Debug\net8.0\Cumulative2.csproj.AssemblyReference.cache
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\obj\Debug\net8.0\Cumulative2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\obj\Debug\net8.0\Cumulative2.AssemblyInfoInputs.cache
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\obj\Debug\net8.0\Cumulative2.AssemblyInfo.cs
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\obj\Debug\net8.0\Cumulative2.csproj.CoreCompileInputs.cache
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\obj\Debug\net8.0\Cumulative2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\obj\Debug\net8.0\Cumulative2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\obj\Debug\net8.0\Cumulative2.RazorAssemblyInfo.cache
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\obj\Debug\net8.0\Cumulative2.RazorAssemblyInfo.cs
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\obj\Debug\net8.0\Cumulative2.sourcelink.json
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\obj\Debug\net8.0\scopedcss\bundle\Cumulative2.styles.css
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\obj\Debug\net8.0\scopedcss\projectbundle\Cumulative2.bundle.scp.css
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\obj\Debug\net8.0\staticwebassets\msbuild.Cumulative2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\obj\Debug\net8.0\staticwebassets\msbuild.Cumulative2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\obj\Debug\net8.0\staticwebassets\msbuild.build.Cumulative2.props
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Cumulative2.props
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Cumulative2.props
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\obj\Debug\net8.0\Cumulati.474013E5.Up2Date
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\obj\Debug\net8.0\Cumulative2.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\obj\Debug\net8.0\refint\Cumulative2.dll
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\obj\Debug\net8.0\Cumulative2.pdb
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\obj\Debug\net8.0\Cumulative2.genruntimeconfig.cache
+C:\Users\PALLAVI DHAWAN\Source\Repos\Cumulative-3\Cumulative1\obj\Debug\net8.0\ref\Cumulative2.dll
